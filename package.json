@@ -1,0 +1,16 @@
+{
+  "name": "llamabot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"No Tests for now\""
+  },
+  "author": "",
+  "license": "ISC"
+}
