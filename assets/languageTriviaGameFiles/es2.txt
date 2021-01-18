@@ -1,0 +1,4 @@
+pelear:to fight,fight:3.60
+pueblo:town,people,village:3.50
+araña:spider:3.20
+gritar:to scream,scream:3.40

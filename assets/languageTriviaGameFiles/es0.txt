@@ -1,0 +1,20 @@
+hola:hello,hi:0.80
+adiós:goodbye,bye:0.90
+gracias:thank you,thanks:0.90
+sí:yes:0.80
+no:no:0.60
+por favor:please:1.00
+el agua:water:1.30
+la manzana:apple:1.40
+caminar:to walk,walk:1.30
+comer:to eat,eat:1.30
+ir:to go,go:1.30
+saber:to know,know,to taste,taste:1.40
+la taza:cup:2.10
+el sombrero:hat:1.80
+el perro:dog:1.60
+el gato:cat:1.70
+la isla:island:2.50
+el estudiante:1.70
+enseñar:to teach,teach:1.70
+aprender:to learn,learn:1.70
